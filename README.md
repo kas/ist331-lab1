@@ -4,11 +4,11 @@ Find out how many searches there were on average per identity during a 21-hour p
 
 Here is the output with the full search data:
 
-`total search count: 3518498
+> total search count: 3518498
 
-number of identities: 370585
+> number of identities: 370585
 
-There were 9.494442570530378 searches per identity.`
+> There were 9.494442570530378 searches per identity.
 
 ## Running
 
