@@ -30,4 +30,3 @@ searches_per_identity = total_search_count / number_of_identities
 print('total search count:', total_search_count)
 print('number of identities:', number_of_identities)
 print('There were {} searches per identity.'.format(searches_per_identity))
-

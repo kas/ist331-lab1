@@ -13,4 +13,3 @@ Here is the output with the full search data:
 ## Running
 
 This project was run with Python 3.
-
